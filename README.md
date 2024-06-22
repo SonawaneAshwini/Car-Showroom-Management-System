@@ -5,10 +5,13 @@
 # Project Overview:
 
 •	The project aims to create a car showroom management system using Java and object-oriented programming (OOP) concepts.
+
 •	It involves designing classes, implementing inheritance, and utilizing polymorphism.
 
 # Project Setup:
+
 o	Create a new Java project in your preferred IDE (e.g., Eclipse, IntelliJ, or Visual Studio Code).
+
 o	Set up the necessary project structure (directories, packages, etc.).
 
 # Project Structure:
