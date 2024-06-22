@@ -27,15 +27,19 @@ o	Set up the necessary project structure (directories, packages, etc.).
 •	The project demonstrates the practical use of encapsulation, abstraction, polymorphism, and inheritance.
 •	It provides a foundation for building similar management systems like hospital or vaccine management systems, and can be added to personal portfolios or resumes.
 
+
 •	Showroom Car Management System Features:
 o	The project includes features related to managing a car showroom.
 o	These features might include adding new showrooms, managing employee details, and handling car inventory.
 o	The system allows interaction with showrooms, employees, and cars.
+
+
 •	Class Hierarchy:
 o	The project defines several classes, including: 
 	Showroom: Represents a car showroom.
 	Employee: Contains attributes like name, ID, and department.
 	Utility: An interface that provides utility methods (e.g., adding showrooms).
+
 
 •	Takeaways:
 o	By following this project, you’ll gain practical experience in OOP concepts.
