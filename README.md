@@ -55,6 +55,7 @@ o	Utilize inheritance:
 o	Implement polymorphism: 
 	Use method overriding to customize behavior (e.g., calculateSalary for different employee types).
 
+
 •	Attributes and Relationships:
 o	Showroom attributes: 
 	Name
@@ -64,6 +65,7 @@ o	Employee attributes:
 	Name
 	Employee ID
 	Department
+
 
 •	Main Menu Functionality:
 o	Create a menu-driven interface for users: 
