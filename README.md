@@ -45,8 +45,11 @@ o	The system allows interaction with showrooms, employees, and cars.
 •	Class Hierarchy:
 
 o	The project defines several classes, including: 
+
 	Showroom: Represents a car showroom.
+
 	Employee: Contains attributes like name, ID, and department.
+
 	Utility: An interface that provides utility methods (e.g., adding showrooms).
 
 
