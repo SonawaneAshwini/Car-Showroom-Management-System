@@ -34,7 +34,9 @@ o	Set up the necessary project structure (directories, packages, etc.).
 •	Showroom Car Management System Features:
 
 o	The project includes features related to managing a car showroom.
+
 o	These features might include adding new showrooms, managing employee details, and handling car inventory.
+
 o	The system allows interaction with showrooms, employees, and cars.
 
 
