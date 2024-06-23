@@ -32,12 +32,14 @@ o	Set up the necessary project structure (directories, packages, etc.).
 
 
 •	Showroom Car Management System Features:
+
 o	The project includes features related to managing a car showroom.
 o	These features might include adding new showrooms, managing employee details, and handling car inventory.
 o	The system allows interaction with showrooms, employees, and cars.
 
 
 •	Class Hierarchy:
+
 o	The project defines several classes, including: 
 	Showroom: Represents a car showroom.
 	Employee: Contains attributes like name, ID, and department.
@@ -45,11 +47,13 @@ o	The project defines several classes, including:
 
 
 •	Takeaways:
+
 o	By following this project, you’ll gain practical experience in OOP concepts.
 o	You can apply similar principles to other management systems (e.g., hospital management, vaccine management).
 
 
 •	Inheritance and Polymorphism:
+
 o	Utilize inheritance: 
 	Employee can inherit from a base class (e.g., Person).
 	Implement common methods (e.g., displayDetails) in the base class.
@@ -58,6 +62,7 @@ o	Implement polymorphism:
 
 
 •	Attributes and Relationships:
+
 o	Showroom attributes: 
 	Name
 	Address
@@ -69,6 +74,7 @@ o	Employee attributes:
 
 
 •	Main Menu Functionality:
+
 o	Create a menu-driven interface for users: 
 	Add a new showroom (using the addShowroom method).
 	Display existing showrooms and their details.
@@ -77,12 +83,14 @@ o	Create a menu-driven interface for users:
 
 
 •	Testing and Execution:
+
 o	Write a Main class with a main method.
 o	Instantiate objects (showrooms, employees) and test various functionalities.
 o	Ensure that the project compiles and runs without errors.
 
 
 •	Run the Project:
+
 o	Compile and execute the project.
 o	Interact with the menu options to add showrooms, employees, and retrieve information.
 
