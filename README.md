@@ -88,22 +88,29 @@ o	Employee attributes:
 •	Main Menu Functionality:
 
 o	Create a menu-driven interface for users: 
+
 	Add a new showroom (using the addShowroom method).
+
 	Display existing showrooms and their details.
+
 	Add employees to showrooms.
+
 	Retrieve employee information.
 
 
 •	Testing and Execution:
 
 o	Write a Main class with a main method.
+
 o	Instantiate objects (showrooms, employees) and test various functionalities.
+
 o	Ensure that the project compiles and runs without errors.
 
 
 •	Run the Project:
 
 o	Compile and execute the project.
+
 o	Interact with the menu options to add showrooms, employees, and retrieve information.
 
 
