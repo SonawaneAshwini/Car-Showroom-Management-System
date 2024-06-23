@@ -56,6 +56,7 @@ o	The project defines several classes, including:
 •	Takeaways:
 
 o	By following this project, you’ll gain practical experience in OOP concepts.
+
 o	You can apply similar principles to other management systems (e.g., hospital management, vaccine management).
 
 
