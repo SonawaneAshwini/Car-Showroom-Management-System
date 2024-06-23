@@ -47,7 +47,7 @@ o	These features might include adding new showrooms, managing employee details, 
 o	The system allows interaction with showrooms, employees, and cars.
 
 
-•	Class Hierarchy:
+	Class Hierarchy:
 
 o	The project defines several classes, including: 
 
