@@ -8,11 +8,7 @@
 
 
 
-# Project Overview:
 
-•	The project aims to create a car showroom management system using Java and object-oriented programming (OOP) concepts.
-
-•	It involves designing classes, implementing inheritance, and utilizing polymorphism.
 
 
 ## Project Setup:
