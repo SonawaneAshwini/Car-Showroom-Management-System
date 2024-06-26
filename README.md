@@ -38,7 +38,6 @@ o	Set up the necessary project structure (directories, packages, etc.).
 •	It provides a foundation for building similar management systems like hospital or vaccine management systems, and can be added to personal portfolios or resumes.
 
 
-
 •	Showroom Car Management System Features:
 
 o	The project includes features related to managing a car showroom.
