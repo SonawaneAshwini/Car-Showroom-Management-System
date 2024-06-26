@@ -120,4 +120,13 @@ o	Compile and execute the project.
 
 o	Interact with the menu options to add showrooms, employees, and retrieve information.
 
+## Contributors
+
+- Ashwini Sonawane
+  - Contact: ashwinisonawane9853@gmail.com
+  - GitHub: [Profile](https://github.com/SonawaneAshwini)
+- Shravan Dalavi
+  - Contact: shravandalavi137@gmail.com
+  - GitHub:[Profile]( https://github.com/ShravanDalavi)
+
 
