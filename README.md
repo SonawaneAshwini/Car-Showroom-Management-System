@@ -31,13 +31,13 @@ o	Set up the necessary project structure (directories, packages, etc.).
 •	An Interface named Utility is created to demonstrate its use in live projects.
 
 
-## Practical Application:
+# Practical Application:
 •	The project demonstrates the practical use of encapsulation, abstraction, polymorphism, and inheritance.
 
 •	It provides a foundation for building similar management systems like hospital or vaccine management systems, and can be added to personal portfolios or resumes.
 
 
-•	Showroom Car Management System Features:
+## Showroom Car Management System Features:
 
 o	The project includes features related to managing a car showroom.
 
@@ -47,7 +47,7 @@ o	The system allows interaction with showrooms, employees, and cars.
 
 
 
-•       Class Hierarchy:
+## Class Hierarchy:
 
 o	The project defines several classes, including: 
 
@@ -59,14 +59,14 @@ o	The project defines several classes, including:
 
 
 
-•	Takeaways:
+## Takeaways:
 
 o	By following this project, you’ll gain practical experience in OOP concepts.
 
 o	You can apply similar principles to other management systems (e.g., hospital management, vaccine management).
 
 
-•	Inheritance and Polymorphism:
+## Inheritance and Polymorphism:
 
 o	Utilize inheritance:
 
@@ -79,7 +79,7 @@ o	Implement polymorphism:
 	Use method overriding to customize behavior (e.g., calculateSalary for different employee types).
 
 
-•	Attributes and Relationships:
+## Attributes and Relationships:
 
 o	Showroom attributes: 
 	Name
@@ -91,7 +91,7 @@ o	Employee attributes:
 	Department
 
 
-•	Main Menu Functionality:
+## Main Menu Functionality:
 
 o	Create a menu-driven interface for users: 
 
@@ -104,7 +104,7 @@ o	Create a menu-driven interface for users:
 	Retrieve employee information.
 
 
-•	Testing and Execution:
+## Testing and Execution:
 
 o	Write a Main class with a main method.
 
@@ -113,7 +113,7 @@ o	Instantiate objects (showrooms, employees) and test various functionalities.
 o	Ensure that the project compiles and runs without errors.
 
 
-•	Run the Project:
+## Run the Project:
 
 o	Compile and execute the project.
 
