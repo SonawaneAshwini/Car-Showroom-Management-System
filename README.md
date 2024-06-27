@@ -31,7 +31,7 @@ o	Set up the necessary project structure (directories, packages, etc.).
 •	An Interface named Utility is created to demonstrate its use in live projects.
 
 
-# Practical Application:
+## Practical Application:
 •	The project demonstrates the practical use of encapsulation, abstraction, polymorphism, and inheritance.
 
 •	It provides a foundation for building similar management systems like hospital or vaccine management systems, and can be added to personal portfolios or resumes.
